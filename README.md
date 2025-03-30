@@ -1,4 +1,4 @@
-# rabbitcode-portfolio
+# Rabbitcode Portfolio
 
 Welcome to the **RabbitCode Portfolio** repository! This project showcases a portfolio built using the MERN (MongoDB, Express.js, React.js, Node.js) stack to display projects, skills, and work experiences in a professional manner.
 
